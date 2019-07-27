@@ -1,0 +1,29 @@
+%Parameters for synthetic  T1-T2 kernel 
+
+%[Projected Gradient Parameters]
+  par.gpnr.tol          =1.0E-3
+  par.gpnr.maxiter      =10E4
+%
+%[Projected Newton  Parameters]
+  par.nwtp.maxiter      =15E3
+  par.nwtp.tolrho       =1.0E-3
+%
+%[Conjugate Ggradient Parameters]
+  par.cgn2d.tol         =1.0E-5
+  par.cgn2d.maxiter     =15E6
+%
+%[VARIOUS]
+%
+%[SVD Parameters]
+  par.svd.svd           =1
+  par.svd.soglia        =1.0E-4
+% 
+%[UPEN]
+  par.upen.tol          =0.001
+  par.upen.iter         =500
+  par.upen.beta00       =1
+  par.upen.beta0        =1.0E-6
+  par.upen.beta_p       =1.0E0
+  par.upen.beta_c       =1.0E0
+%
+END

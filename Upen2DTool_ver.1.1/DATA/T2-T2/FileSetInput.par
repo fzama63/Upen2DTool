@@ -1,0 +1,17 @@
+%Filename e parameters for sample: Maastricht stone T2T2 kernel 
+
+% [File Data]
+  filenamedata          =T2T2data2D.dat
+  filenameTimeX         =T2T2axisA.dat
+  filenameTimeY         =T2T2axisB.dat
+%
+% [Inversion Points]
+  nx                    =64
+  ny                    =64
+% [Inversione Time limit]
+  T1min                 =1.0E-2
+  T1max                 =3.0E3
+  T2min                 =1.0E-1
+  T2max                 =3.0E3
+%
+END

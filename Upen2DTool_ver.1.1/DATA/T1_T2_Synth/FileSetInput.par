@@ -1,0 +1,17 @@
+%filename e parameters for synthetic T1-T2 kernel 
+
+% [File Data]
+  filenamedata          =data2D.dat
+  filenameTimeX         =Tau_AxisX.dat
+  filenameTimeY         =Tau_AxisY.dat
+%
+% [Inversion Points]
+  nx                    =64
+  ny                    =64
+% [Inversion Time limit, ms]
+  T1min                 =1.0E-1
+  T1max                 =1.0E4
+  T2min                 =1.0E-1
+  T2max                 =1.0E4
+%
+END

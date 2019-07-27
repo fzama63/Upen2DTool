@@ -1,0 +1,16 @@
+--------------------------------------------------------------------------------------------------------- 
+UPen2D Input Parameters 
+ upen_tol=1.000000e-03,
+ Projected Gradient Tol =1.000000e-03 
+ Projected Newton Tol=1.000000e-05 
+ Conjugate Gradient Tol =1.000000e-05
+SVD Threshold =1e-06 
+   Data size= 20 x 30  
+---------------------------------------------------------------------------------------------------------
+Number of Inversion channels:  horizontal 64, vertical  64 
+Final Relative Residual Norm =9.8456e-03 
+Total UPen2D Iterations = 14
+Total CG Iterations = 9837 
+Total Projected Newton Iterations = 70 
+Computation Time = 11.60000 s.
+---------------------------------------------------------------------------------------------------------

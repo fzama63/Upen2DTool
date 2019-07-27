@@ -1,0 +1,8 @@
+%Flags for cement data T1T2 kernel 25/09/2018
+%
+  FL_typeKernel         =1
+  FL_InversionTimeLimits=0
+  FL_OutputData         =1
+  FL_NoContour          =150
+  FL_Verbose            =0
+END

@@ -1,0 +1,17 @@
+%filename e parameters for cement T1T2 kernel 26/09/2018
+
+% [File Data]
+  filenamedata          =s_ircpmg.dat
+  filenameTimeX         =t_X.dat
+  filenameTimeY         =t_Y.dat
+%
+% [Inversion Points]
+  nx                    =80
+  ny                    =80
+% [Inversion Time limit, ms]
+  T1min                 =1.0E-2
+  T1max                 =1.0E3
+  T2min                 =1.0E-2
+  T2max                 =1.0E3
+%
+END

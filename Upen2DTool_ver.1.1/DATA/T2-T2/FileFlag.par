@@ -1,0 +1,8 @@
+Flags for sample: Pietra di Maastricht T2T2 kernel 15/07/2017
+%
+  FL_typeKernel         =4
+  FL_InversionTimeLimits=0
+  FL_OutputData         =1
+  FL_NoContour          =300
+  FL_Verbose            =0
+END
